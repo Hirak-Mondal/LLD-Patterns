@@ -1,5 +1,10 @@
 package StrategyPattern;
+/*
+NOTE: this is best example of OPEN CLOSE PRINCIPLE
+why?: Its making easier to add new strategies without tempering with the existing code.
+Eg- adding another payment method like payPal is very easy without hampering the existing code
 
+ */
 interface PaymentStrategy{
     void processPayment();
 }
