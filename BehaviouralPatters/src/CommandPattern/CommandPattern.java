@@ -4,7 +4,7 @@ package CommandPattern;
 interface Command{
     void execute();
 }
-//Concrete classes for command interface
+//Concrete classes for command interface: Bold and italic
 class BoldCommand implements Command{
     private TextEditor textEditor;
 
