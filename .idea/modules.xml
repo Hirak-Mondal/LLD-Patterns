@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.DocumentEditor/1.DocumentEditor.iml" filepath="$PROJECT_DIR$/1.DocumentEditor/1.DocumentEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviouralPatters/BehaviouralPatters.iml" filepath="$PROJECT_DIR$/BehaviouralPatters/BehaviouralPatters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Patterns/Creational Design Patterns.iml" filepath="$PROJECT_DIR$/Creational Design Patterns/Creational Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practices.iml" filepath="$PROJECT_DIR$/.idea/Practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitWise/SplitWise.iml" filepath="$PROJECT_DIR$/SplitWise/SplitWise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Undo-Redo text editor/Undo-Redo text editor.iml" filepath="$PROJECT_DIR$/Undo-Redo text editor/Undo-Redo text editor.iml" />
     </modules>
   </component>

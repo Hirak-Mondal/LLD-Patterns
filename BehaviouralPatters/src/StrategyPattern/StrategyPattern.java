@@ -10,7 +10,7 @@ interface PaymentStrategy{
 }
 
 //concrete strategy: eg- credit card, debit card, UPI
- class CreditCard implements PaymentStrategy{
+class CreditCard implements PaymentStrategy{
     @Override
     public void processPayment() {
         System.out.println("Paying through credit card");
